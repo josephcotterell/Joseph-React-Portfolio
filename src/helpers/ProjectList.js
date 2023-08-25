@@ -8,22 +8,26 @@ export const ProjectList = [
   {
     name: "Weather App",
     image: Proj1,
-    skills: "JavaScript,HTML,CSS",
+    skills: "JavaScript,HTML,CSS, APIs",
   },
   {
     name: "Ecommerce App",
     image: Proj2,
+    skills: "React, JavaScript, HTML, Bootstrap",
   },
   {
     name: "Note Taker App",
     image: Proj3,
+    skills: "HTML, JavaScript",
   },
   {
     name: "Code Quiz",
     image: Proj4,
+    skills: "HTML, CSS, JavaScript",
   },
   {
     name: "Team Generator",
     image: Proj5,
+    skills: "Javascript, MYSQL",
   },
 ];
