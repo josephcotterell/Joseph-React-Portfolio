@@ -1,5 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { Link, useLocation } from "react-router-dom";
+import { HiOutlineMenu } from "react-icons/hi";
+import { MdClose } from "react-icons/md";
 import "../styles/Navbar.css";
 
 function Navbar() {
@@ -11,14 +13,23 @@ function Navbar() {
     setExpandNavbar(false);
   }, [location]);
 
+  const style = { fontSize: "1.5rem", color: "white" };
+
   return (
     <div className="navbar" id={expandNavbar ? "open" : "close"}>
       <div className="toggleButton">
+        <div className="logo">JT Cotterell</div>
         <button
           onClick={() => {
             setExpandNavbar((prev) => !prev);
           }}
-        ></button>
+        >
+          {expandNavbar ? (
+            <MdClose style={style} />
+          ) : (
+            <HiOutlineMenu style={style} />
+          )}
+        </button>
       </div>
       <div className="links">
         <Link to="/"> Home </Link>
