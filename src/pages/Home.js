@@ -4,9 +4,15 @@ function Home() {
   return (
     <div className="home">
       <div className="about">
-        <h2> Joseph Cotterell</h2>
         <div className="prompt">
-          <p>Software Engineer</p>
+          <div>
+            <img className="photo" src={require("../assets/profile.png")} />
+          </div>
+          <p>
+            Hi, my name is Joseph and I am a junior software developer from
+            Birmingham UK. Here you will find some of my projects as well as
+            links to my Github and Linkdin pages.
+          </p>
         </div>
       </div>
       <div className="skills">
