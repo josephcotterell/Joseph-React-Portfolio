@@ -13,6 +13,9 @@ function ProjectDisplay() {
       <p>
         <b>Skills:</b> {project.skills}
       </p>
+      <p>
+        <b>Application Link:</b> {project.link}
+      </p>
     </div>
   );
 }
