@@ -3,7 +3,7 @@ import Proj2 from "../assets/Proj2.png";
 import Proj3 from "../assets/Proj3.png";
 import Proj4 from "../assets/Proj4.png";
 import Proj5 from "../assets/Proj5.png";
-
+import Proj6 from "../assets/Proj6.png";
 export const ProjectList = [
   {
     name: "Weather App",
@@ -34,5 +34,11 @@ export const ProjectList = [
     image: Proj5,
     skills: "Javascript, MYSQL",
     link: "https://github.com/josephcotterell/Team-Profile-Gen",
+  },
+  {
+    name: "Work Day Scheduler",
+    image: Proj6,
+    skills: "Javascript, HTML",
+    link: "https://josephcotterell.github.io/Work-Day-Scheduler/",
   },
 ];
