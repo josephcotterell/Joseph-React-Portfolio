@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.css": "/Joseph-React-Portfolio/static/css/main.d30cd248.css",
-    "main.js": "/Joseph-React-Portfolio/static/js/main.45c454c9.js",
+    "main.css": "/Joseph-React-Portfolio/static/css/main.f54f827d.css",
+    "main.js": "/Joseph-React-Portfolio/static/js/main.088212b6.js",
     "static/js/787.28cb0dcd.chunk.js": "/Joseph-React-Portfolio/static/js/787.28cb0dcd.chunk.js",
     "static/media/Proj2.png": "/Joseph-React-Portfolio/static/media/Proj2.2dc1381a08b211e92ff9.png",
+    "static/media/profile.png": "/Joseph-React-Portfolio/static/media/profile.082fe341b54aee9273d7.png",
     "static/media/Proj5.png": "/Joseph-React-Portfolio/static/media/Proj5.21c71bc8eb62c8fe6501.png",
     "static/media/Proj1.png": "/Joseph-React-Portfolio/static/media/Proj1.daa58509d1996110e1cd.png",
     "static/media/Proj3.png": "/Joseph-React-Portfolio/static/media/Proj3.3993c7cbde5fc31e1942.png",
     "static/media/Proj4.png": "/Joseph-React-Portfolio/static/media/Proj4.564ac4be6471b4bca6c7.png",
+    "static/media/Proj6.png": "/Joseph-React-Portfolio/static/media/Proj6.f8b3a2f8bb9634e5a776.png",
     "index.html": "/Joseph-React-Portfolio/index.html",
-    "main.d30cd248.css.map": "/Joseph-React-Portfolio/static/css/main.d30cd248.css.map",
-    "main.45c454c9.js.map": "/Joseph-React-Portfolio/static/js/main.45c454c9.js.map",
+    "main.f54f827d.css.map": "/Joseph-React-Portfolio/static/css/main.f54f827d.css.map",
+    "main.088212b6.js.map": "/Joseph-React-Portfolio/static/js/main.088212b6.js.map",
     "787.28cb0dcd.chunk.js.map": "/Joseph-React-Portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d30cd248.css",
-    "static/js/main.45c454c9.js"
+    "static/css/main.f54f827d.css",
+    "static/js/main.088212b6.js"
   ]
 }
