@@ -8,37 +8,31 @@ export const ProjectList = [
   {
     name: "Weather App",
     image: Proj1,
-    skills: "JavaScript,HTML,CSS, APIs",
     link: "https://josephcotterell.github.io/Weather-Dashboard/",
   },
   {
     name: "Ecommerce App",
     image: Proj2,
-    skills: "React, JavaScript, HTML, Bootstrap",
     link: "https://tech-planet.vercel.app/",
   },
   {
     name: "Note Taker App",
     image: Proj3,
-    skills: "HTML, JavaScript",
-    link: "https://github.com/josephcotterell/Note-Taker",
+    link: "https://note-taker-app-joseph.herokuapp.com/",
   },
   {
     name: "Code Quiz",
     image: Proj4,
-    skills: "HTML, CSS, JavaScript",
     link: "https://josephcotterell.github.io/Code-Quiz/",
   },
   {
     name: "Team Generator",
     image: Proj5,
-    skills: "Javascript, MYSQL",
-    link: "https://github.com/josephcotterell/Team-Profile-Gen",
+    link: "https://drive.google.com/file/d/1ddnK3QBT-ab6fCjbcKjuaCkWPdkdMoJs/view",
   },
   {
     name: "Work Day Scheduler",
     image: Proj6,
-    skills: "Javascript, HTML",
     link: "https://josephcotterell.github.io/Work-Day-Scheduler/",
   },
 ];
