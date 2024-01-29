@@ -15,7 +15,11 @@ function ProjectDisplay() {
         <b>Project Link </b>
       </p>
 
-      <p>{project.link}</p>
+      <p>
+        <a href={project.link} target="_blank">
+          {project.link}
+        </a>
+      </p>
     </div>
   );
 }
