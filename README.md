@@ -1,18 +1,17 @@
-General Info
+# Joseph Cotterell Personl Portfolio
+
 This is my Personal Portfolio powered by React.
 
-Technologies
-A list of technologies used within the project:
-React
-HTML
-CSS
-JavaScript
+## Technologies
+- React
+- HTML
+- CSS
+- JavaScript
 
-[React]
-Installation
-Please feel free to clone and install this application.
+# Installation
 
-$ git clone the repo
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
+- cd `path-to-destination-folder`
+- git clone `https://github.com/josephcotterell/Joseph-React-Portfolio.git`
+- cd `Joseph-React-Portfolio`
+- `npm install`
+- `npm start`
