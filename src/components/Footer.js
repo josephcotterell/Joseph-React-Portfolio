@@ -1,6 +1,7 @@
 import React from "react";
 import { AiFillGithub } from "react-icons/ai";
 import { AiFillLinkedin } from "react-icons/ai";
+import { motion } from "framer-motion";
 
 import "../styles/Footer.css";
 

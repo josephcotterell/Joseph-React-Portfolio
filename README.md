@@ -1,8 +1,9 @@
-# Joseph Cotterell Personl Portfolio
+# Joseph Cotterell Personel Portfolio
 
 This is my Personal Portfolio powered by React.
 
 ## Technologies
+
 - React
 - HTML
 - CSS

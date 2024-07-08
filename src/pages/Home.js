@@ -9,9 +9,9 @@ function Home() {
             <img className="photo" src={require("../assets/profile.png")} />
           </div>
           <p>
-            Hi, my name is Joseph and I am a junior software developer from
-            Birmingham UK. Here you will find some of my projects as well as
-            links to my Github and Linkedin pages.
+            Hi, my name is Joseph and I am a software developer living in
+            Germany. Here you will find some of my projects as well as links to
+            my Github and Linkedin pages.
           </p>
         </div>
       </div>
