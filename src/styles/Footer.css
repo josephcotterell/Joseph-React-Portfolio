@@ -11,10 +11,34 @@
 }
 
 .socialMedia svg {
+  padding: 10px 20px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
   color: white;
-  margin: 20px;
-  font-size: 70px;
   cursor: pointer;
+  font-size: 48px;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.socialMedia.Linkedin {
+  background-color: #3b5998;
+}
+
+.socialMedia.Github {
+  background-color: #1da1f2;
+}
+
+.socialMedia svg:active {
+  transform: scale(0.95);
+}
+
+.socialMedia.Linkedin:active {
+  background-color: #2d4373;
+}
+
+.socialMedia.Github:active {
+  background-color: #0a85d9;
 }
 
 .footer p {
